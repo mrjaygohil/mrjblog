@@ -1,0 +1,16 @@
+.nav_bar{
+    background-color: rgb(145, 160, 160);
+    padding: 10px 0;
+    
+}
+.nav_bar >*{
+    padding: 10px;
+    text-decoration: none;   
+}
+.nav_bar >*:hover{
+    background-color: rgb(228, 214, 214);
+}
+.navbar{
+    background-color:transparent ;
+
+}

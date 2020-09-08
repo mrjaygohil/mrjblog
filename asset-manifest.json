@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mrjblog/static/css/main.4d2e8f2a.chunk.css",
+    "main.js": "/mrjblog/static/js/main.c1696819.chunk.js",
+    "main.js.map": "/mrjblog/static/js/main.c1696819.chunk.js.map",
+    "runtime-main.js": "/mrjblog/static/js/runtime-main.0059c829.js",
+    "runtime-main.js.map": "/mrjblog/static/js/runtime-main.0059c829.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/mrjblog/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.f0ead832.chunk.js": "/mrjblog/static/js/2.f0ead832.chunk.js",
+    "static/js/2.f0ead832.chunk.js.map": "/mrjblog/static/js/2.f0ead832.chunk.js.map",
+    "index.html": "/mrjblog/index.html",
+    "precache-manifest.3db8c2c99b7f91570702c6cfb8cefa71.js": "/mrjblog/precache-manifest.3db8c2c99b7f91570702c6cfb8cefa71.js",
+    "service-worker.js": "/mrjblog/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/mrjblog/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.4d2e8f2a.chunk.css.map": "/mrjblog/static/css/main.4d2e8f2a.chunk.css.map",
+    "static/js/2.f0ead832.chunk.js.LICENSE.txt": "/mrjblog/static/js/2.f0ead832.chunk.js.LICENSE.txt",
+    "static/media/aa.png": "/mrjblog/static/media/aa.5bca6f0c.png",
+    "static/media/c.png": "/mrjblog/static/media/c.c7cf4ba6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0059c829.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.f0ead832.chunk.js",
+    "static/css/main.4d2e8f2a.chunk.css",
+    "static/js/main.c1696819.chunk.js"
+  ]
+}

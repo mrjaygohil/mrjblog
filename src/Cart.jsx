@@ -18,7 +18,7 @@ const Cart=(props)=> {
                         
                             <p className="card-text">{props.text}</p>
                         
-                            <NavLink to className="btn btn-primary">Button</NavLink>
+                            <NavLink to className="btn btn-primary">Click</NavLink>
 
                         </div>
 

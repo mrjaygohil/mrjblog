@@ -3,27 +3,27 @@
     {
         title:"Developing",
         text : "we develop as you need.",
-        img:"https://picsum.photos/seed/picsum/200/300"
+        img:"https://otech.edu/site/wp-content/uploads/femaleCoder.jpg"
     },
     {
         title:"Digital Marketing",
         text : "well marketing skills.",
-        img:"https://picsum.photos/200/300?grayscale"
+        img:"https://cdn3.vectorstock.com/i/1000x1000/99/42/web-developer-working-on-computer-programming-vector-16009942.jpg"
     },
     {
         title:"Supports",
         text : "supprt any ",
-        img:"https://picsum.photos/200/300/?blur2"
+        img:"https://www.amandadesign.co.uk/wp-content/uploads/home-placement-large-3.jpg"
     },
     {
         title:"Bussiness grow",
         text : "Grow your bussiness",
-        img:"https://picsum.photos/id/237/200/300"
+        img:"https://www.incimages.com/uploaded_files/image/1920x1080/getty_506181336_326801.jpg"
     },
     {
         title:"Teaching",
         text : "Technical supports.",
-        img:"https://picsum.photos/200/300"
+        img:"https://mk0digitallearn7ttjx.kinstacdn.com/wp-content/uploads/2018/06/33.jpg"
     },
     
 

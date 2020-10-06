@@ -34,7 +34,7 @@ const App =()=> {
         return (<Anim/>);
       }}></Route>
  
-  <Redirect to="/about" />
+  <Redirect from="*" to="/" />
     </Switch>
     
 </>  );
